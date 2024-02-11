@@ -1,4 +1,3 @@
-# EDA_on_black_Friday
 # EDA on Black Friday Sales Dataset
 
 This repository contains an exploratory data analysis (EDA) performed on a dataset related to Black Friday sales. The dataset provides information about transactions that occurred during Black Friday, including details such as customer demographics, product categories, and purchase amounts.
